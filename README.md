@@ -9,7 +9,7 @@ Built with **HTML, CSS, and JavaScript**.
 🎨 Responsive UI  
 🚀 No frameworks, just pure JavaScript!  Todo App
 
-
+Live Demo:   https://muskan12561.github.io/Todo-app/
 
 Installation
 1. Clone the repository:   git clone https://github.com/Muskan12561/Todo-app.git
